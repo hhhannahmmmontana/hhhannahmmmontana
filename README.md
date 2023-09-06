@@ -6,7 +6,7 @@
 - программист _для души_, на деле я таксист
 
 ```c++
-function fuckYourself() {
+function goAway() {
     please();
 }
 ```
