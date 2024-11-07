@@ -6,9 +6,7 @@
 - программист _для души_, на деле я таксист
 
 ```kotlin
-fun goAway() {
-    please()
-}
+fun goAway(): Please {}
 ```
 ### а это мне просто интересно:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&layout=compact)
