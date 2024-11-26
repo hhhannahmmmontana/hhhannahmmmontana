@@ -7,9 +7,7 @@
   <li>программист <i>для души</i>, на деле я <b>таксист</b></li>
 </ul>
 
-```kotlin
-fun goAway(): Please {}
-```
+<pre lang="kotlin">fun goAway() : Please {}</pre>
 
 <h3 align="center">а это мне просто интересно:</h3>
 <a href="https://github.com/hhhannahmmmontana?tab=repositories">
