@@ -7,6 +7,9 @@
     <pre lang="kotlin">fun main() { print(if (readLine()!!.toInt().takeIf { it > 3 && it % 2 == 0 } != null) "YES" else "NO") }</pre>
   </li>
   <li>
+    помог своему другу <a href="https://github.com/k0ch3gar">Константину Майнкрафт</a> в создании <a href="https://github.com/k0ch3gar/Fibonacci-heap">stl-совместимой фибоначчиевой кучи</a>!
+  </li>
+  <li>
     пока больше я ничего не делал!
   </li>
 </ul>
