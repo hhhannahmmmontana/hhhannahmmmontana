@@ -50,7 +50,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=350&locale=ru"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=350&locale=ru" align="center" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=350&locale=ru" />
   </picture>
   
   <picture>
@@ -62,6 +62,6 @@
       srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru" align="center" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru" />
   </picture>
 </p>
