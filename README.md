@@ -43,14 +43,14 @@
 <p align="center">
   <picture align="right">
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=400&locale=ru"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=350&locale=ru"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=400&locale=ru"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=350&locale=ru"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=400&locale=ru" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=350&locale=ru" align="left" />
   </picture>
   
   <picture>
