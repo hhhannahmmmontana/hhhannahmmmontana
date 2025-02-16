@@ -41,30 +41,35 @@
 
 <hr>
 
+<div align="center">
+<kbd>
 <h3 align="center">я крутой</h3>
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=500"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&locale=ru&custom_title=Язычки&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=500"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&locale=ru&custom_title=Язычки&card_width=400"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=500" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&custom_title=Язычки&card_width=400" />
   </picture>
 </p>
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&hide_title=true&card_width=500"
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=500"
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&custom_title=Статы&locale=ru&card_width=400"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=500" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&custom_title=Статы&locale=ru&card_width=400" />
   </picture>
 </p>
+</kbd>
+</div>
+
