@@ -1,6 +1,6 @@
 <h1 align="center">официальный аккаунт володи володкевича</h1>
 <img align="center" width="100%" src="img/hhhannahmmmontana.gif">
-<h3><a href="https://leetcode.com/u/hhhannahmmmontana/">мой leetcode</a></h3>
+<h3 align="center"><a href="https://leetcode.com/u/hhhannahmmmontana/">мой leetcode</a></h3>
 
 <h3>мои достижения:</h3>
 <ul>
@@ -39,5 +39,29 @@
 
 <p>последний потому что у них иконки эпл белой нет</p>
 
-
-          
+<h3>я крутой:</h3>
+<p align="center">
+  <picture align="right">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=400&locale=ru"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=400&locale=ru"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=400&locale=ru" align="left" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&locale=ru"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru" align="right" />
+  </picture>
+</p>
