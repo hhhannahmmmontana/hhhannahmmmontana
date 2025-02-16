@@ -43,25 +43,26 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=350"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&card_width=700"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=350"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&card_width=700"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=350" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=700" />
   </picture>
-  
+</p>
+<p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&hide_title=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&hide_title=true&card_width=700"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=700"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&card_width=700" />
   </picture>
 </p>
