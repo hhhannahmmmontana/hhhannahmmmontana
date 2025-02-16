@@ -64,10 +64,10 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&custom_title=Статы&locale=ru&card_width=400"
+      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&custom_title=Статы&locale=ru&card_width=400" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400" />
   </picture>
 </p>
 </kbd>
