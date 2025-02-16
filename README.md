@@ -16,7 +16,7 @@
   </li>
 </ul>
 <h3>что мне нравится</h3>
-<li>состовлять список вещей, которые мне не нравятся</li>
+<li>составлять список вещей, которые мне не нравятся</li>
 <h3>что мне не нравится:</h3>
 
 <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;
