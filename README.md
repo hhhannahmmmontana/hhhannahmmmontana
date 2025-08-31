@@ -15,61 +15,13 @@
     пока больше я ничего не делал!
   </li>
 </ul>
-<h3>что мне нравится</h3>
-<li>составлять список вещей, которые мне не нравятся</li>
-<h3>что мне не нравится:</h3>
-
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />&nbsp;
-<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" />&nbsp;
-
-
-<p>последний потому что у них иконки эпл белой нет</p>
-
-<hr>
-
-<div align="center">
-<kbd>
-<h3 align="center">я крутой</h3>
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&layout=compact&locale=ru&custom_title=Язычки&card_width=400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&layout=compact&locale=ru&custom_title=Язычки&card_width=400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&locale=ru&custom_title=Язычки&card_width=400" />
-  </picture>
+  <a align="center" href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hhhannahmmmontana&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/hhhannahmmmontana"
+    width="600"
+    height="300"
+  />
+  </a>
 </p>
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=hhhannahmmmontana&show_icons=true&bg_color=00000000&hide_border=true&custom_title=Статы&locale=ru&card_width=400" />
-  </picture>
-</p>
-</kbd>
-</div>
 
