@@ -16,12 +16,13 @@
   </li>
 </ul>
 <p align="center">
-  <a align="center" href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hhhannahmmmontana&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/hhhannahmmmontana"
-    width="600"
-    height="300"
-  />
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/749922893879413105/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
   </a>
 </p>
 
