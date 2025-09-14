@@ -46,7 +46,9 @@
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/kotlin-%23B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=%23B125EA&labelColor=black" alt="kotlin" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=black" alt="java" />
-  <img src="https://img.shields.io/badge/spring%20framework%20%26%20boot-%236DB33B.svg?style=for-the-badge&logo=spring&logoColor=%236DB33B&labelColor=black" alt="spring framework & boot" />
+  <img src="https://img.shields.io/badge/spring-%236DB33B.svg?style=for-the-badge&logo=spring&logoColor=%236DB33B&labelColor=black" alt="spring" />
+  <img src="https://img.shields.io/badge/angular-%23B52E31.svg?style=for-the-badge&logo=angular&logoColor=%23B52E31&labelColor=black" alt="angular" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black" alt="typescript" />
   <img src="https://img.shields.io/badge/gradle-%23209BC4.svg?style=for-the-badge&logo=gradle&logoColor=%23209BC4&labelColor=black" alt="gradle" />
   <img src="https://img.shields.io/badge/docker-%231D63ED.svg?style=for-the-badge&logo=docker&logoColor=%231D63ED&labelColor=black" alt="docker" />
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23336791&labelColor=black" alt="postgres" />
