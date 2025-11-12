@@ -1,5 +1,6 @@
 <h1 align="center">официальный аккаунт володи володкевича</h1>
 <img align="center" width="100%" src="img/hhhannahmmmontana.gif">
+<img align="center" width="100%" height="300px" src="img/photo_2025-11-12_15-01-09.jpg">
 <h3 align="center"><a href="https://leetcode.com/u/hhhannahmmmontana/">мой leetcode</a></h3>
 
 <h3>мои достижения:</h3>
